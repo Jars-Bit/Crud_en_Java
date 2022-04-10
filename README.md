@@ -1,8 +1,8 @@
 # Crud en java
 
-# Autor Raymond Algenys De La rosa
+# Jhosmel Asael Rodriguez Santo 20
 
-# Link Presentacion del sistema del crud --Link https://drive.google.com/file/d/1hg_ZhhcQPZ12JN_fXjTAAXXPMAEzE_aY/view
+# Link Presentacion del sistema del crud 
 
 #Breve descripcion:
 
