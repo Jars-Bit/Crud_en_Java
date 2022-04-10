@@ -6,5 +6,5 @@
 
 #Breve descripcion:
 
-#En el programa tendremos un login, un inicio y un regisro, podemos agreagar, elimar datos, modificar ctr.
+#En el programa tendremos un login, un inicio y un registro, podemos agregar, elimimar datos, modificar ctr.
 # Crud_en_Java
