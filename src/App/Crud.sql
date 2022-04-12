@@ -3,7 +3,7 @@ create database Crud;
 use Crud;
 
 create table Clientes (
-	id int,
+	id int identity(1,1) primary key,
 	nombre_Usuario varchar(100),
 	nombre varchar(100),
 	apellido varchar(100),
